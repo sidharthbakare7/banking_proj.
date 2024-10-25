@@ -2,7 +2,7 @@
 
 ==============================================================================================
 ## **Origianl Version Information**
-- **Developed by:** Maksudul Haque
+- **Developed by:** sidharth bakare
 - **Download From:** [https://codeastro.com/simple-banking-system-in-python-django-with-source-code//](https://codeastro.com)
 ==============================================================================================
 ## **Modified Version Information**
